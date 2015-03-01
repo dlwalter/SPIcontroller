@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Name="zynq_setup" Type="StartUp" File="utilities/zynq_setup.m" />
